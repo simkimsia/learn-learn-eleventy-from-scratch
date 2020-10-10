@@ -26,7 +26,13 @@ How to know that the lesson was done correctly
 
 ### Lesson 02
 
+Original lesson content: https://piccalil.li/course/learn-eleventy-from-scratch/lesson/2/
+
 ![lesson-02-musoc](README.assets/lesson-02-musoc.png)
 
 
+### Lesson 03
 
+Original lesson content: https://piccalil.li/course/learn-eleventy-from-scratch/lesson/3/
+
+![A browser with a page that has a title of “Hello, world” and a paragraph that says “This is pretty rad, right?”](README.assets/lesson-03-musoc.jpg)
