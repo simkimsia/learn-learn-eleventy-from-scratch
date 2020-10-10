@@ -17,3 +17,16 @@ The [course](https://piccalil.li/course/learn-eleventy-from-scratch/?campaign=YB
     11. [Lesson 11]()
     12. [Lesson 12]()
 
+
+## Minimum Unambiguous Sign of Change (MUSoC)
+
+How to know that the lesson was done correctly
+
+### Lesson 01
+
+### Lesson 02
+
+![lesson-02-musoc](README.assets/lesson-02-musoc.png)
+
+
+
