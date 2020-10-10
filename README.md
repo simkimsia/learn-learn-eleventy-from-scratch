@@ -40,3 +40,10 @@ Original lesson content: https://piccalil.li/course/learn-eleventy-from-scratch/
 Original lesson content: https://piccalil.li/course/learn-eleventy-from-scratch/lesson/3/
 
 ![A browser with a page that has a title of “Hello, world” and a paragraph that says “This is pretty rad, right?”](README.assets/lesson-03-musoc.jpg)
+
+### Lesson 04
+
+Original lesson content: https://piccalil.li/course/learn-eleventy-from-scratch/lesson/4/
+
+![image-20201010230919861](README.assets/lesson-04-musoc.png)
+
