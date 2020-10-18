@@ -2,6 +2,10 @@
 
 The [course](https://piccalil.li/course/learn-eleventy-from-scratch/?campaign=YB0HOENA)
 
+Note: this is a public repo that only covers the free 5 lessons of the course. I have a private repo that contains all my steps up to lesson 13 (as of 2020-10-18 14:44 +8) because I checked with the course creator Andy Bell. And he prefers I put the other commits behind private repo.
+
+I think I will leave the commits for the public lessons here in public repo as well for now.
+
 ## Lessons
 
 1. [Lesson 01](https://github.com/simkimsia/learn-learn-eleventy-from-scratch/tree/lesson/01)
@@ -9,13 +13,6 @@ The [course](https://piccalil.li/course/learn-eleventy-from-scratch/?campaign=YB
 3. [Lesson 03](https://github.com/simkimsia/learn-learn-eleventy-from-scratch/tree/lesson/03)
 4. [Lesson 04](https://github.com/simkimsia/learn-learn-eleventy-from-scratch/tree/lesson/04)
 5. [Lesson 05](https://github.com/simkimsia/learn-learn-eleventy-from-scratch/tree/lesson/05)
-6. [Lesson 06](https://github.com/simkimsia/learn-learn-eleventy-from-scratch/tree/lesson/06)
-7. [Lesson 07]()
-8. [Lesson 08]()
-9. [Lesson 09]()
-10. [Lesson 10]()
-11. [Lesson 11]()
-12. [Lesson 12]()
 
 
 ## Minimum Unambiguous Sign of Change (MUSoC)
